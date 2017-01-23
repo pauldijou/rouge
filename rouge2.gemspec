@@ -1,7 +1,7 @@
 require './lib/rouge/version'
 
 Gem::Specification.new do |s|
-  s.name = "rouge"
+  s.name = "rouge2"
   s.version = Rouge.version
   s.authors = ["Jeanine Adkisson"]
   s.email = ["jneen@jneen.net"]
